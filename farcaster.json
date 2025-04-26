@@ -1,0 +1,12 @@
+{
+    "name": "idol-shooter",  // Mini Appの名前
+    "version": "1",  // バージョン
+    "homeUrl": "https://idol-shooter.vercel.app/",  // 公開URL
+    "iconUrl": "https://idol-shooter.vercel.app/icon.png",  // アイコンのURL
+    "imageUrl": "https://idol-shooter.vercel.app/image.png",  // 画像のURL（スプラッシュスクリーンやプレビュー画像）
+    "description": "Idol shooter game",  // Mini Appの説明
+    "splashScreenUrl": "https://idol-shooter.vercel.app/splash.png",  // スプラッシュスクリーン（任意）
+    "previewUrl": "https://idol-shooter.vercel.app/",  // プレビューURL
+    "previewSplashScreen": true  // スプラッシュスクリーンをプレビューに表示するか
+  }
+  
